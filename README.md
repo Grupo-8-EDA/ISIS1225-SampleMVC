@@ -1,5 +1,6 @@
-Andrés Felipe Melgarejo Sarmiento
-202012655
+- Andrés Felipe Melgarejo Sarmiento
+- a.melgarejo@uniandes.edu.co
+- 202012655
 
 #ISIS1225 - Estructura de un proyecto
 
